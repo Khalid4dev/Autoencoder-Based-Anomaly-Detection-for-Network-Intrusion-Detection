@@ -1,0 +1,1 @@
+{"removed_features": ["sbytes", "dbytes", "sloss", "dloss", "dwin", "ct_src_dport_ltm", "ct_dst_src_ltm", "ct_ftp_cmd", "ct_srv_dst"]}
